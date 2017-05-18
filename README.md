@@ -2,7 +2,7 @@
 
 ### Demo
 ![](videojs-shoot.png)
-
+ 
 ### Usage
 ```js
 <script src="shoot.js"></script>
