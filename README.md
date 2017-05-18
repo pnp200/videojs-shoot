@@ -1,8 +1,9 @@
 # videojs-shoot
 
+### Demo
+![](videojs-shoot.png)
 
-
-## Usage
+### Usage
 ```js
 <script src="shoot.js"></script>
 
